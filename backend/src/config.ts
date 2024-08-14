@@ -1,0 +1,5 @@
+export const config = {
+    PORT: 4000,
+    ACCESS_TOKEN_SECRET: "4vDZE6BB9h38wuuGRjEm",
+    REFRESH_TOKEN_SECRET: "3sBb5DqSXFiTnaG75YTH"
+}
